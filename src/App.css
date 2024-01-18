@@ -1,0 +1,35 @@
+/* // Home component CSS here */
+
+/* src/Home.css */
+
+.Home {
+  text-align: center;
+}
+
+.Home-header {
+  background-color: #343a40;
+  color: white;
+  padding: 20px;
+}
+
+.Home-section {
+  margin: 40px 0;
+}
+
+.Home-section h2 {
+  margin-bottom: 20px;
+}
+
+.Home-section p {
+  font-size: 18px;
+}
+
+.Home-section .card {
+  margin: 20px;
+}
+
+.Home-footer {
+  background-color: #343a40;
+  color: white;
+  padding: 10px;
+}
