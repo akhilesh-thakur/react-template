@@ -1,1 +1,1 @@
-## Starter Tempelate
+## Starter Template
